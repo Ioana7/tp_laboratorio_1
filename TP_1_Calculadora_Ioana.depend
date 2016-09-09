@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1472406377 source:f:\fotos - io\tecnicatura programacion 1\laboratorio\1 cuatrimestre\trabajos practicos\tp_1_calculadora_ioana\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1472406461 f:\fotos - io\tecnicatura programacion 1\laboratorio\1 cuatrimestre\trabajos practicos\tp_1_calculadora_ioana\funciones.h
+
+1473387752 source:h:\tp_1_calculadora_ioana\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1473387790 source:h:\tp_1_calculadora_ioana\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1473387626 h:\tp_1_calculadora_ioana\funciones.h
+
+1473387752 source:c:\users\shiki\documents\github\tp_laboratorio_1\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1473387626 c:\users\shiki\documents\github\tp_laboratorio_1\funciones.h
+
+1473387826 source:c:\users\shiki\documents\github\tp_laboratorio_1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
