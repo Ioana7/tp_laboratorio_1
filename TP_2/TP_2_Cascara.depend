@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1474681880 source:f:\fotos - io\tecnicatura programacion 1\laboratorio y programacion 1\1 cuatrimestre\trabajos practicos\tp_2_personas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1474681957 f:\fotos - io\tecnicatura programacion 1\laboratorio y programacion 1\1 cuatrimestre\trabajos practicos\tp_2_personas\funciones.h
+
+1474682005 source:f:\fotos - io\tecnicatura programacion 1\laboratorio y programacion 1\1 cuatrimestre\trabajos practicos\tp_2_personas\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1474505798 source:f:\fotos - io\tecnicatura programacion 1\laboratorio y programacion 1\1 cuatrimestre\trabajos practicos\tp_2_personas\funciones.h
+
+1474587127 source:f:\fotos - io\tecnicatura programacion 1\laboratorio y programacion 1\1 cuatrimestre\trabajos practicos\tp_2_personas\funciones1.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1474682005 source:c:\users\shiki\documents\github\tp_laboratorio_1\tp_2\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1474681957 c:\users\shiki\documents\github\tp_laboratorio_1\tp_2\funciones.h
+
+1474681880 source:c:\users\shiki\documents\github\tp_laboratorio_1\tp_2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
